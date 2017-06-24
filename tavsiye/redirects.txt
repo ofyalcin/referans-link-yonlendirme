@@ -1,0 +1,4 @@
+default,https://blogkurdu.net/tavsiyelerim
+do,https://m.do.co/c/fe093887434f
+avada,https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226?s_rank=1&ref=omerfarukyalcin
+15zine,https://themeforest.net/item/15zine-hd-magazine-newspaper-wordpress-theme/10802918?s_rank=1&ref=omerfarukyalcin
